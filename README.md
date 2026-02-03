@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this tiny project is to find out how to send emails from an application running in a container using existing email subscription, in my case this is Proton. This solved the following business requirements:
+The purpose of this tiny project is to evaluate the options of seningd emails from an application running in a container using existing email subscription, in my case this is Proton. This solved the following business requirements:
     - sending out marketing emails or secure emails for confirming subscriptions/resetting access to a small group of people on a regular basis (according to Proton, Proton is not designed to be used for mass email campaigns)
     -  saving money for an additional mail service subscription by utilizing existing email subscription 
 
